@@ -1,0 +1,41 @@
+.words{
+align-items: center;
+text-align: center;
+text-decoration: center;
+margin-left: 20%;
+margin-right: 20%;
+height: 100%;
+border-color: #7c7772;
+background-color:#f8f8f8 ;
+}
+.word-this{
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #7c7772;
+
+    font-size: x-large;
+}
+.word-{
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.word-correct{
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: #5fd292;
+}
+.word-incorrect{
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c8572c;
+
+}
+.select{
+    margin-right: 49%;
+    background-color: #daeae7;
+    height: fit-content;
+    width: 11%;
+    
+}

@@ -1,0 +1,24 @@
+.seconds{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.results{
+    margin-top: 5%;
+    z-index: 1;
+    border-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #a7da8e;
+    margin-bottom: 2%;
+}
+
+.secondsCard{
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-color:#7c7772 ;
+    background-color: #fffbca;
+}
+.informations{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
